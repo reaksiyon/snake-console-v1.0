@@ -1,0 +1,13 @@
+C:\Users\emir_\source\repos\small_consolegame\small_consolegame\bin\Debug\netcoreapp3.1\small_consolegame.exe
+C:\Users\emir_\source\repos\small_consolegame\small_consolegame\bin\Debug\netcoreapp3.1\small_consolegame.deps.json
+C:\Users\emir_\source\repos\small_consolegame\small_consolegame\bin\Debug\netcoreapp3.1\small_consolegame.runtimeconfig.json
+C:\Users\emir_\source\repos\small_consolegame\small_consolegame\bin\Debug\netcoreapp3.1\small_consolegame.runtimeconfig.dev.json
+C:\Users\emir_\source\repos\small_consolegame\small_consolegame\bin\Debug\netcoreapp3.1\small_consolegame.dll
+C:\Users\emir_\source\repos\small_consolegame\small_consolegame\bin\Debug\netcoreapp3.1\small_consolegame.pdb
+C:\Users\emir_\source\repos\small_consolegame\small_consolegame\obj\Debug\netcoreapp3.1\small_consolegame.csprojAssemblyReference.cache
+C:\Users\emir_\source\repos\small_consolegame\small_consolegame\obj\Debug\netcoreapp3.1\small_consolegame.AssemblyInfoInputs.cache
+C:\Users\emir_\source\repos\small_consolegame\small_consolegame\obj\Debug\netcoreapp3.1\small_consolegame.AssemblyInfo.cs
+C:\Users\emir_\source\repos\small_consolegame\small_consolegame\obj\Debug\netcoreapp3.1\small_consolegame.csproj.CoreCompileInputs.cache
+C:\Users\emir_\source\repos\small_consolegame\small_consolegame\obj\Debug\netcoreapp3.1\small_consolegame.dll
+C:\Users\emir_\source\repos\small_consolegame\small_consolegame\obj\Debug\netcoreapp3.1\small_consolegame.pdb
+C:\Users\emir_\source\repos\small_consolegame\small_consolegame\obj\Debug\netcoreapp3.1\small_consolegame.genruntimeconfig.cache
